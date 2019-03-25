@@ -1,6 +1,6 @@
 let divSort = document.getElementById('sort');
 divSort.style.width = '400px';
-divSort.style.border = '4px solid red';
+divSort.style.border = '1px solid red';
 let arrayForSort = [2, 5, 3, 4, 7, 6, 1]; // неупорядоченный массив
 
 // Быстрая сортировка

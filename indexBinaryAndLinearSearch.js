@@ -1,6 +1,6 @@
 let divSearch = document.getElementById('search');
 divSearch.style.width = '400px';
-divSearch.style.border = '2px solid violet';
+divSearch.style.border = '1px solid violet';
 let array = [1, 2, 3, 4, 5, 6, 7]; // упорядоченный массив
 
 // Бинарный (двоичный) поиск (отсортированный массив!!!)
